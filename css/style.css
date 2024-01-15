@@ -114,3 +114,35 @@ border: border-box;
     
 }
 /* Banner Sec end  */
+/* Section 1 start */
+.section1
+{
+    min-width: 992px;
+    width: 1170px;
+    height: 550px;
+    /* border:2px solid green; */
+    margin: 25px auto;
+    display: flex;
+    gap: 15px;
+    padding-top: 15px;
+}
+.div2{
+    background-image: url("../B9A2-Hero-Travel/Images/Rectangle\ 4.png");
+    height: 500px;
+    width: 500px;
+     border-radius: 20px; 
+    margin-left: 50px;
+}
+.div1{
+    
+    width: 540px;
+    /* border: 2px solid green; */
+    padding: 50px 25px;
+    
+    
+}
+.div1 ul{
+    color: rgba(90, 90, 93, 1);
+    font-size: 16px;
+}
+/* Section One End */
