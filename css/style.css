@@ -59,13 +59,13 @@ border: border-box;
   height: 500px;
   /* border: 2px solid green; */
   margin: 20px auto;
-  background-image: url(../B9A2-Hero-Travel/Images/Group\ 13\ \(1\)\ \(1\).png);
+  background-image: url("../Images/Group\ 13\ \(1\)\ \(1\).png");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 16px;
 }
 .banner-sec{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(../B9A2-Hero-Travel/Images/Group\ 13\ \(1\)\ \(1\).png)
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(../Images/Group\ 13\ \(1\)\ \(1\).png)
 }
 .banner-title{
     color: rgba(255, 255, 255, 1);
@@ -131,7 +131,7 @@ border: border-box;
     padding-top: 15px;
 }
 .div2{
-    background-image: url("../B9A2-Hero-Travel/Images/Rectangle\ 4.png");
+    background-image: url("../Images/Rectangle\ 4.png");
     height: 500px;
     width: 500px;
      border-radius: 20px; 
@@ -179,11 +179,11 @@ border: border-box;
    
 }
 .image1{
-    background-image: url("../B9A2-Hero-Travel/Images/Rectangle\ 5.png");
+    background-image: url("../Images/Rectangle\ 5.png");
     background-size: cover;
 }
 .image2{
-    background-image: url("../B9A2-Hero-Travel/Images/Rectangle\ 8.png"); 
+    background-image: url("../Images/Rectangle\ 8.png"); 
     background-size: cover;
 }
  .image1 p{
@@ -233,14 +233,14 @@ border: border-box;
    margin-top: 25px;
 }
 .image3{
-    background-image: url("../B9A2-Hero-Travel/Images/Rectangle\ 6.png");
+    background-image: url("../Images/Rectangle\ 6.png");
     background-size: cover;
     background-repeat: no-repeat;
      margin-right: 120px;
     width: 500px;
 }
 .image4{
-    background-image: url("../B9A2-Hero-Travel/Images/Rectangle\ 7.png");
+    background-image: url("../Images/Rectangle\ 7.png");
     background-size: cover;
     background-repeat: repeat;
     height: 250px;
@@ -249,7 +249,7 @@ border: border-box;
 }
 
 .image5{
-    background-image: url("../B9A2-Hero-Travel/Images/Rectangle\ 9.png");
+    background-image: url("../Images/Rectangle\ 9.png");
     background-repeat: no-repeat;
     margin-left: 190px; 
     width: 500px;
@@ -257,7 +257,7 @@ border: border-box;
 .image6{
     height: 300px;
     width: 500px;
-    background-image: url("../B9A2-Hero-Travel/Images/Rectangle\ 11.png");
+    background-image: url("../Images/Rectangle\ 11.png");
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 8px;
@@ -272,7 +272,7 @@ border: border-box;
 .image7{
     height: 300px;
     width: 673px;
-    background-image: url("../B9A2-Hero-Travel/Images/Rectangle\ 10.png");
+    background-image: url("../Images/Rectangle\ 10.png");
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 8px;
@@ -383,7 +383,7 @@ border: border-box;
     height: 450px;
     /* border: 2px solid green; */
     /* margin: 0px auto; */
-    background-image:url(../B9A2-Hero-Travel/Images/Group\ 39.png) ;
+    background-image:url(../Images/Group\ 39.png) ;
     border-radius: 8px;
     margin-left: auto;
     margin-right: auto;
@@ -431,7 +431,7 @@ border: border-box;
     height: 450px;
     /* border: 2px solid green; */
     /* margin: 0px auto; */
-    background-image:url("../B9A2-Hero-Travel/Images/Group\ 40.png") ;
+    background-image:url("../Images/Group\ 40.png") ;
     border-radius: 8px;
     margin-left: auto;
     margin-right: auto;
@@ -540,8 +540,8 @@ border: border-box;
 .section8{
     min-width: 992px;
     width: 1170px;
-    /* background-image: url("../B9A2-Hero-Travel/Images/mobile.jpeg"); */
-    /* background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(../B9A2-Hero-Travel/Images/mobile.jpeg); */
+    /* background-image: url("../Images/mobile.jpeg"); */
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url(../Images/mobile.jpeg); */
     /* border: 2px solid green; */
     height: 500px;
     background-repeat: no-repeat;
