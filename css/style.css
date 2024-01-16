@@ -41,6 +41,9 @@ border: border-box;
     font-weight: 500;
 
 }
+.header2 i {
+    display: none;
+}
 /* .fa-solid fa-bars  { 
      color: rgba(19, 19, 24, 1); 
      font-size: 15px;
@@ -173,6 +176,7 @@ border: border-box;
     display: flex;
    justify-content: space-between;
    margin-top: 50px;
+   
 }
 .image1{
     background-image: url("../B9A2-Hero-Travel/Images/Rectangle\ 5.png");
@@ -482,7 +486,7 @@ border: border-box;
 }
 .sec-div1{
     width: 50%;
-    /* border: 2px solid gold; */
+     /* border: 2px solid gold; */
     padding: 50px;
     /* padding-top: 80px; */
 }
@@ -492,7 +496,8 @@ border: border-box;
     margin-right: 900px;
 }
 .sec-div2 video{
-    margin-top:-50px
+
+    margin-top:20px
 }
 /* Sec Five done */
 .section7{
